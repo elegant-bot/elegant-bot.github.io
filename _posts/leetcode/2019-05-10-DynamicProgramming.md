@@ -1,3 +1,11 @@
+---
+title: DynamicProgramming 动态规划
+author: jiaozi
+date: 2019-05-10 00:00:00 +0800
+categories: [leecode]
+tags: [算法]
+
+---
 ## 动态规划中的找零问题
 
 python3

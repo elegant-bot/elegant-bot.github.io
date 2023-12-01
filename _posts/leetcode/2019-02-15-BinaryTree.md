@@ -1,5 +1,5 @@
 ---
-title: 二分查找树
+title: BinaryTree 二分查找树
 author: jiaozi
 date: 2019-02-15 16:13:00 +0800
 categories: [leecode]

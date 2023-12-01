@@ -1,3 +1,11 @@
+---
+title: DivideAndConquer 分治算法
+author: jiaozi
+date: 2019-03-17 00:00:00 +0800
+categories: [leecode]
+tags: [算法]
+
+---
 ## 分治算法
 
 python3

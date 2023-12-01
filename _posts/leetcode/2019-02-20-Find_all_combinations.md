@@ -1,3 +1,11 @@
+---
+title: Find_all_combinations 找出列表中元素的所有组合
+author: jiaozi
+date: 2019-02-20 16:13:00 +0800
+categories: [leecode]
+tags: [算法]
+
+---
 ## 找出列表中元素的所有组合
 
 python3

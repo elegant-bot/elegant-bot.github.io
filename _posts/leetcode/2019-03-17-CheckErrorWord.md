@@ -1,3 +1,11 @@
+---
+title: CheckErrorWord 单词检查
+author: jiaozi
+date: 2019-03-17 00:00:00 +0800
+categories: [leecode]
+tags: [算法]
+
+---
 ## 英语单词拼写检查算法
 
 python3

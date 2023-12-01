@@ -1,3 +1,11 @@
+---
+title: MapReduce_and_filter
+author: jiaozi
+date: 2019-02-15 16:13:00 +0800
+categories: [leecode]
+tags: [算法]
+
+---
 ## py-MapReduce_and_filter
 
 python3

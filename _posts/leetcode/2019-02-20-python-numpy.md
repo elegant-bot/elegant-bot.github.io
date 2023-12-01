@@ -1,3 +1,11 @@
+---
+title: Python-numpy常见操作
+author: jiaozi
+date: 2019-02-20 16:13:00 +0800
+categories: [leecode]
+tags: [算法]
+
+---
 ## Python-numpy常见操作
 
 python3

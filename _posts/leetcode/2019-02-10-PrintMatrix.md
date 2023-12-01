@@ -1,7 +1,7 @@
 ---
-title: 输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字
+title: PrintMatrix 打印矩阵
 author: jiaozi
-date: 2019-01-12 16:13:00 +0800
+date: 2019-02-10 16:13:00 +0800
 categories: [leecode]
 tags: [算法]
 
