@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy Blog# the main title
+title: Blog
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
