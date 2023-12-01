@@ -1,4 +1,11 @@
-# Permutation Sequence
+---
+title: Permutation Sequence
+author: jiaozi
+date: 2019-10-02 00:00:00 +0800
+categories: [leecode]
+tags: [算法]
+
+---
 
 ## Question
 
