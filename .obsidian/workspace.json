@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "588ca934997b2e9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "864ae3cef2489921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7393b531a0a85e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/llm/2023-11-29-LLM-GLM_3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36a1ddda4f19be8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf762147a9b72f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb37ce0c1b3a24ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7310df60caac991c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be4542eb9af1fed4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be267497e80526b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ff97c6cffca94fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c03c4360ae8bd9a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/llm/2023-11-29-LLM-GLM_3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13f3ec1f31f76f13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/llm/2023-11-29-LLM-GLM_3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8c6281c4fed384b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8de9039f63fcd967",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/llm/2023-11-29-LLM-GLM_3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b7393b531a0a85e8",
+  "lastOpenFiles": [
+    "assets/img/llm/2023-12-01.md",
+    "_posts/llm/2023-11-29-LLM-GLM_3.md",
+    "README.md"
+  ]
+}

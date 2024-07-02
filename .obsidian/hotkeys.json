@@ -1,0 +1,32 @@
+{
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
+}
