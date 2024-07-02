@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "864ae3cef2489921",
+        "id": "04a6041a16ae3d82",
         "type": "tabs",
         "children": [
           {
-            "id": "b7393b531a0a85e8",
+            "id": "57e5476f7160d774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/llm/2023-11-29-LLM-GLM_3.md",
-                "mode": "source",
-                "source": false
+                "file": "_posts/leetcode/2019-01-11-PathInTree.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/llm/2023-11-29-LLM-GLM_3.md",
+                "file": "_posts/leetcode/2019-01-11-PathInTree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/llm/2023-11-29-LLM-GLM_3.md",
+                "file": "_posts/leetcode/2019-01-11-PathInTree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/llm/2023-11-29-LLM-GLM_3.md"
+                "file": "_posts/leetcode/2019-01-11-PathInTree.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b7393b531a0a85e8",
+  "active": "57e5476f7160d774",
   "lastOpenFiles": [
-    "assets/img/llm/2023-12-01.md",
     "_posts/llm/2023-11-29-LLM-GLM_3.md",
+    "assets/img/llm/2023-12-01.md",
     "README.md"
   ]
 }
