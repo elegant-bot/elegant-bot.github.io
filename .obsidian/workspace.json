@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/leetcode/2019-03-17-CheckErrorWord.md",
+                "file": "_posts/leetcode/2019-10-02-word_search.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "389b71aab2aa84e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/leetcode/2019-03-17-CheckErrorWord.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/leetcode/2019-03-17-CheckErrorWord.md",
+                "file": "_posts/leetcode/2019-10-02-word_search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/leetcode/2019-03-17-CheckErrorWord.md",
+                "file": "_posts/leetcode/2019-10-02-word_search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/leetcode/2019-03-17-CheckErrorWord.md"
+                "file": "_posts/leetcode/2019-10-02-word_search.md"
               }
             }
           }
@@ -159,13 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bb37ce0c1b3a24ca",
+  "active": "57e5476f7160d774",
   "lastOpenFiles": [
-    "_posts/leetcode/2019-03-17-DivideAndConquer.md",
-    "_posts/leetcode/2019-03-17-CheckErrorWord.md",
+    "_posts/leetcode/2020-02-11-AlgorithmsByPython-UglyNumber.md",
+    "_posts/leetcode/2020-02-19-AlgorithmsByPython-TwoNumbersWithSum.md",
     "_posts/leetcode/2020-02-20-AlgorithmsByPython-liner_paraller.md",
-    "_posts/leetcode/2019-02-15-BinaryTree.md",
     "_posts/leetcode/2019-10-19-AlgorithmsByPython-FindInPartiallySortedMatrix.md",
+    "_posts/leetcode/2019-10-02-next_permutation.md",
+    "_posts/leetcode/2019-05-10-QuickSort.md",
+    "_posts/leetcode/2019-03-17-CheckErrorWord.md",
+    "_posts/leetcode/2019-03-17-DivideAndConquer.md",
+    "_posts/leetcode/2019-02-15-BinaryTree.md",
     "_posts/leetcode/2019-02-15-MapReduce_and_filter.md",
     "_posts/leetcode/2019-02-10-PrintMatrix.md",
     "_posts/leetcode/2019-01-11-PathInTree.md",
