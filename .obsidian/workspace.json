@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/tools/2019-06-07-ss-linux.md",
+                "file": "_posts/tools/2019-06-08-Bert模型输出pb格式部署.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/tools/2019-06-07-ss-linux.md",
+                "file": "_posts/tools/2019-06-08-Bert模型输出pb格式部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/tools/2019-06-07-ss-linux.md",
+                "file": "_posts/tools/2019-06-08-Bert模型输出pb格式部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/tools/2019-06-07-ss-linux.md"
+                "file": "_posts/tools/2019-06-08-Bert模型输出pb格式部署.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "890031c6f104638d",
   "lastOpenFiles": [
+    "_posts/tools/2019-06-07-ss-linux.md",
     "_posts/blog/2019-08-08-write-a-new-post.md",
     "_posts/llm/2023-11-29-LLM-GLM_3.md",
     "assets/img/llm/2023-12-01.md",
@@ -170,7 +171,6 @@
     "_posts/leetcode/2019-02-15-MapReduce_and_filter.md",
     "_posts/leetcode/2019-02-10-PrintMatrix.md",
     "_posts/tools/2019-06-08-Bert模型输出pb格式部署.md",
-    "_posts/tools/2019-06-07-ss-linux.md",
     "_posts/blog/2019-08-09-getting-started.md",
     "README.md"
   ]
