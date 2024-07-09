@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/blog/2019-08-08-write-a-new-post.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
