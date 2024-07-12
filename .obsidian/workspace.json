@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "04a6041a16ae3d82",
+        "id": "8a5a0a7cd79170de",
         "type": "tabs",
         "children": [
           {
-            "id": "57e5476f7160d774",
+            "id": "890031c6f104638d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/llm/2023-11-29-LLM-GLM_3.md",
-                "mode": "source",
-                "source": false
+                "file": "_posts/blog/2019-08-08-write-a-new-post.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/llm/2023-11-29-LLM-GLM_3.md",
+                "file": "_posts/blog/2019-08-08-write-a-new-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/llm/2023-11-29-LLM-GLM_3.md",
+                "file": "_posts/blog/2019-08-08-write-a-new-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/llm/2023-11-29-LLM-GLM_3.md"
+                "file": "_posts/blog/2019-08-08-write-a-new-post.md"
               }
             }
           }
@@ -147,14 +147,21 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal headlines only": false,
+      "privacy-glasses:Reveal all": false
     }
   },
-  "active": "57e5476f7160d774",
+  "active": "890031c6f104638d",
   "lastOpenFiles": [
+    "_posts/tools/2019-06-08-Bert模型输出pb格式部署.md",
+    "_posts/tools/2019-06-07-ss-linux.md",
+    "_posts/blog/2019-08-08-write-a-new-post.md",
+    "_posts/llm/2023-11-29-LLM-GLM_3.md",
     "assets/img/llm/2023-12-01.md",
     "assets/img/llm/2023-12-01 14-08-27 的屏幕截图.png",
-    "_posts/llm/2023-11-29-LLM-GLM_3.md",
     "_posts/leetcode/2019-01-11-PathInTree.md",
     "_posts/leetcode/2019-10-02-word_search.md",
     "_posts/leetcode/2020-02-11-AlgorithmsByPython-UglyNumber.md",
@@ -168,10 +175,7 @@
     "_posts/leetcode/2019-02-15-BinaryTree.md",
     "_posts/leetcode/2019-02-15-MapReduce_and_filter.md",
     "_posts/leetcode/2019-02-10-PrintMatrix.md",
-    "_posts/tools/2019-06-08-Bert模型输出pb格式部署.md",
-    "_posts/tools/2019-06-07-ss-linux.md",
     "_posts/blog/2019-08-09-getting-started.md",
-    "_posts/blog/2019-08-08-write-a-new-post.md",
     "README.md"
   ]
 }
