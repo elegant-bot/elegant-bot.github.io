@@ -147,11 +147,7 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "privacy-glasses:Hide all": false,
-      "privacy-glasses:Reveal non-private": false,
-      "privacy-glasses:Reveal headlines only": false,
-      "privacy-glasses:Reveal all": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "890031c6f104638d",
